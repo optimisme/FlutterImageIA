@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/screen_retriever-master.dia",
+    "emit-module-dependencies" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/screen_retriever-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/screen_retriever-master-emit-module.dia",
+    "swift-dependencies" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/screen_retriever-master.swiftdeps"
+  },
+  "/Users/albertpalaciosjimenez/.pub-cache/hosted/pub.dev/screen_retriever-0.1.9/macos/Classes/ScreenRetrieverPlugin.swift" : {
+    "const-values" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.swiftconstvalues",
+    "dependencies" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.d",
+    "diagnostics" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.o",
+    "llvm-bc" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.bc",
+    "object" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.o",
+    "swift-dependencies" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin.swiftdeps",
+    "swiftmodule" : "/Users/albertpalaciosjimenez/Documents/GitHub/DAM-FlutterCupertinoBase/cupertino_base/build/macos/Build/Intermediates.noindex/Pods.build/Debug/screen_retriever.build/Objects-normal/arm64/ScreenRetrieverPlugin~partial.swiftmodule"
+  }
+}
